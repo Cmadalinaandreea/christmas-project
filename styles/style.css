@@ -99,5 +99,5 @@ input:checked+.slider:before {
   margin-bottom: 145px; 
   position : relative;
   display: flex;
-  /* flex-direction: column-reverse; */
+  flex-direction: column-reverse; 
 }
